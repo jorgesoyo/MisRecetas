@@ -1,10 +1,10 @@
 //
 //  DetailViewController.swift
 //  RecetasCompleto
-//
+//  Pequeño cambio
 //  Created by Jorge MR on 01/07/17.
 //  Copyright © 2017 Jorge MR. All rights reserved.
-//
+//  Que clase es esta?
 
 import UIKit
 
